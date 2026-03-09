@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: var(--font-geist);
+}
+
+body {
+  background: #030712;
+}
+
+/* Custom scrollbar for token list */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 4px;
+}
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: transparent;
+}
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: #374151;
+  border-radius: 2px;
+}

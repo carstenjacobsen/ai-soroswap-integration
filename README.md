@@ -1,6 +1,6 @@
 # AI Soroswap Integration
 
-_Time Estimate: 60 mins (Vibe Coding)
+_Time Estimate: 60 mins (Vibe Coding)_
 
 Soroswap is an open-source protocol designed for liquidity provision and token trading on the Soroban blockchain. It operates without the need for intermediaries, ensuring a secure, transparent, and efficient trading environment.
 

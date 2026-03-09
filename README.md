@@ -30,6 +30,7 @@ Learn more about Soroswap and get started with these resources:
 * [Soroswap API Reference]()
 * [Soroswap SDK]()
 
+
 ## Vibe Coding
 Soroswap is a well-documented, mature project in the Stellar Ecosystem, with an easy-to-use API, great documentation and a lot of example projects and open source projects, so Claude Code is very capable of integrating DeFindex.
 
